@@ -1,8 +1,8 @@
-# baseURL = "https://your_domain.com/"
+baseURL = "https://qgis.ee/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Lynx"
+title = "QGIS Eesti"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
@@ -10,12 +10,11 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   # name = "Your name here"
-  # headline = "An awesome person"
-  # image = "img/author.jpg"  # path relative to static directory
+  headline = "Eesti QGIS kasutajagrupp / Estonian QGIS user group"
+  image = "/images/eestiQGIS-logo-print-02-02.png"  # path relative to static directory
 
   links = [
     # { email = "mailto:hello@your_domain.com" },
-    # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
@@ -32,7 +31,9 @@ disableKinds = ["taxonomy", "term"]
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
-    # { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://www.linkedin.com/company/qgis-eesti/" },
+    { stack-exchange = { href = "https://discourse.osgeo.org/tag/qgis", text = "OSGeo QGIS Forum", icon = "stack-exchange" } }
+  # { link = { href = "#", text = "QGIS Eesti", target = "_self" } }
     # { mastodon = "https://mastodon.instance/@username" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },

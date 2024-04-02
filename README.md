@@ -1,3 +1,11 @@
+# QGIS Eesti basic template
+
+- just a landing page with the logo and icon and links
+- https://www.linkedin.com/company/qgis-eesti/
+- we'd like an OSGeo / QGIS Discourse or mailing list place for Estonian QGIS user group
+
+
+
 # Lynx
 
 Lynx is designed to be a simple links page powered by [Hugo](https://gohugo.io). It's built using Tailwind CSS and inspired by services like LinkTree.
