@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "tartugeo-podcast"
+  },
+  "targets": {
+    "tartugeo-podcast": {
+      "hosting": {
+        "qgis-ee": [
+          "qgis-ee"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
