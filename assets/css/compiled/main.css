@@ -1230,6 +1230,11 @@ video {
   background: linear-gradient(120deg, #12990b, #45d82c);
 }
 
+.link-qgis {
+  background-color: #589632;
+  background: linear-gradient(120deg, #589632, #93b023);
+}
+
 .link-x {
   background-color: #000;
 }
@@ -1319,8 +1324,8 @@ video {
   display: flex;
 }
 
-.h-36 {
-  height: 9rem;
+.h-56 {
+  height: 14rem;
 }
 
 .h-full {

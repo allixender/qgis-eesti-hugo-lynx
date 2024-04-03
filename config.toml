@@ -32,7 +32,8 @@ disableKinds = ["taxonomy", "term"]
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
     { linkedin = "https://www.linkedin.com/company/qgis-eesti/" },
-    { stack-exchange = { href = "https://discourse.osgeo.org/tag/qgis", text = "OSGeo QGIS Forum", icon = "stack-exchange" } }
+    { qgis = { href = "https://discourse.osgeo.org/tag/qgis", text = "OSGeo QGIS Forum", icon = "stack-exchange" } },
+    { qgis = { href = "https://qgis.org", text = "QGIS website", icon = "qgis" } }
   # { link = { href = "#", text = "QGIS Eesti", target = "_self" } }
     # { mastodon = "https://mastodon.instance/@username" },
     # { medium = "https://medium.com/username" },
