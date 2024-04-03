@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "QGIS Eesti"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "QGIS Eesti logo by Christof Nichterlein"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
@@ -57,6 +57,13 @@ disableKinds = ["taxonomy", "term"]
     # { x = "https://x.com/username" },
     # { youtube = "https://youtube.com/username" },
   ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
 
 [module]
   [module.hugoVersion]
