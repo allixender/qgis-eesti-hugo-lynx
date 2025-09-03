@@ -21,7 +21,6 @@ disableKinds = ["taxonomy", "term"]
     # { dev = "https://dev.to/username" },
     # { discord = "https://discord.gg/invitecode" },
     # { dribbble = "https://dribbble.com/username" },
-    # { facebook = "https://facebook.com/username" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
     # { github = "https://github.com/username" },
@@ -32,6 +31,7 @@ disableKinds = ["taxonomy", "term"]
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
     { linkedin = "https://www.linkedin.com/company/qgis-eesti/" },
+    { facebook = "https://www.facebook.com/profile.php?id=100093905137140" },
     { qgis = { href = "https://discourse.osgeo.org/tag/qgis", text = "OSGeo QGIS Forum", icon = "stack-exchange" } },
     { qgis = { href = "https://qgis.org", text = "QGIS website", icon = "qgis" } }
   # { link = { href = "#", text = "QGIS Eesti", target = "_self" } }
